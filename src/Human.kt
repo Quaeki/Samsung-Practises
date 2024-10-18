@@ -18,6 +18,3 @@ abstract class Human(var health: Int, var power: Int) : IAttack {
 
     // Можно оставить RageAttack() с реализацией по умолчанию или переопределить в подклассах
 }
-
-fun main(){
-}
